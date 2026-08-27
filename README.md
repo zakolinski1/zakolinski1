@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm zakolinski
 
-I like to program and sometimes play video games. I live in Poland, and I'm an introvert. 
-
 ---
 
 ## Programming languages I use for my projects:
