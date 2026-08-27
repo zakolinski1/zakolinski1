@@ -48,9 +48,9 @@ I like to program and sometimes play video games. I live in Poland, and I'm an i
 ## What I Build
 
 <p align="center">
-<strong>Web Applications:</strong> E-Commers Platform's, Shop's, Any other WebSite's<br>
+<strong>Web Applications:</strong> E-Commers Platform's, Shops, Any other WebSites<br>
 <strong>Backend Systems:</strong> API, Auth System's, Stripe, CashBill Integrations, Manage Database<br>
-<strong>Game Development:</strong> Five'M Script's, Minecraft Plugin's, Roblox Games, Counter-Strike 2 Cheats, Five'M Cheats <br>
+<strong>Game Development:</strong> Five'M Scripts, Minecraft Plugins, Roblox Games, Counter-Strike 2 Cheats, Five'M Cheats <br>
 </p>
 
 ---
