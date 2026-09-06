@@ -46,9 +46,9 @@
 ## What I Build
 
 <p align="center">
-<strong>Web Applications:</strong> E-Commers Platform's, Shops, Any other WebSites<br>
-<strong>Backend Systems:</strong> API, Auth System's, Stripe, CashBill Integrations, Manage Database<br>
-<strong>Game Development:</strong> Five'M Scripts, Minecraft Plugins, Roblox Games, Counter-Strike 2 Cheats, Five'M Cheats <br>
+<strong>Web Applications:</strong> Landing Pages, Five'M ItemShop, Minecraft ItemShop, Any other WebSites<br>
+<strong>Backend Systems:</strong> Login Systems, Payment Gateway Integrations, Database Management<br>
+<strong>Game Development:</strong> Five'M Scripts, Minecraft Plugins, Roblox Games, Counter-Strike 2 Cheats<br>
 </p>
 
 ---
